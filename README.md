@@ -1,11 +1,7 @@
 ﻿# dictionary
 
-A dictionary that uses local shitty API requests to display definitions corresponding with search parameters
+A dictionary that displays definitions corresponding with search parameters
 
 # additional functions
 
 - Generation of synonyms and the ability to click on them 
-
-# live build
-
-https://vigorous-fermi-c251e4.netlify.app/ 
